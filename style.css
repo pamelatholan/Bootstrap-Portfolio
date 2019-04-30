@@ -1,0 +1,55 @@
+/* Bio, Contact, Index */
+
+.navbar-brand {
+  float: left;
+  margin: 0 340px 0 340px;
+  padding: 10px;
+  background-color: #4aaaa5;
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar-nav {
+  float: right;
+  margin: 0 540px 0 540px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container1 {
+  background-color: white;
+  margin: 140px 340px 140px 340px;
+  padding: 10px 10px 10px 10px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 2;
+  }
+
+h2 {
+  color: #4aaaa5;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-bottom: #cccccc;
+  border-bottom-style: solid;
+ }
+
+.float-img {
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 5px;
+}
+
+.fixed-footer{
+  width: 100%;
+  position: fixed;        
+  padding: 10px;
+  bottom: 0;
+  left: 0px;
+  background: #666666;
+  color: white;
+  text-align: center;
+  border-top: 8px solid #4aaaa5;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-image: url(file:///C:/Users/pamel/Basic-Portfolio/Assets/images/symphony.png)
+}
