@@ -60,3 +60,8 @@ h2 {
 body {
   background-image: url(file:///C:/Users/pamel/Basic-Portfolio/Assets/images/symphony.png)
 }
+
+.btn-primary {
+  background-color: #4aaaa5;
+  border-color: #4aaaa5;
+}
