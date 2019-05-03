@@ -36,7 +36,7 @@ h2 {
    margin: 0, 0, 0, 10px;
  }
 
-.img-fluid {
+ .img-fluid {
   float: left;
   margin-right: 0px;
   margin-left: 10px;
@@ -65,3 +65,24 @@ body {
   background-color: #4aaaa5;
   border-color: #4aaaa5;
 }
+
+.img-fluid1 {
+  margin: 0 0 0 45px;
+}
+
+
+
+// Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap
+
+// Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
